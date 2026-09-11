@@ -15,7 +15,7 @@
 ## Установка
 
 ```bash
-git clone <URL_РЕПОЗИТОРИЯ>
+git clone https://github.com/1FAY/task-manager.git
 cd task-manager
 
 python -m venv .venv
